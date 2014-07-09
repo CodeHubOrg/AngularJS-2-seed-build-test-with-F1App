@@ -1,5 +1,4 @@
 angular.module('F1FeederApp.controllers').
-
   /* Drivers controller */
   controller('driversController', function($scope, ergastAPIservice) {
     $scope.nameFilter = null;
@@ -14,3 +13,6 @@ angular.module('F1FeederApp.controllers').
         $scope.driversList = response.MRData.StandingsTable.StandingsLists[0].DriverStandings;
     });
   });
+
+
+
