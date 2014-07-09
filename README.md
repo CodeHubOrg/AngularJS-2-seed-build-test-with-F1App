@@ -13,7 +13,7 @@ I just made these changes:
 
 When you run this app, and go to /members.html, you will get a list of the members. You can also search for keywords that will look through the whole profile of a member and filter. See how many you get when you enter 'Drupal','Wordpress','Accessibility' and 'Javascript' :).
 
-So, I just sneakily piggybacked on the existing app. The time to prepare the workshop didn't allow for  :S. 
+So, I just sneakily piggybacked on the existing app. The time to prepare the workshop didn't allow for more :S. 
 
 Anyway, if you are a beginner with Angular, best to hop over to the tutorials mentioned above, but if you want to clone and run this modified one: 
 
@@ -35,9 +35,4 @@ Run the Application:
 grunt serve
 ```
 
-Run the tests:
-
-```
-grunt test
-```
 
