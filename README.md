@@ -17,6 +17,8 @@ So, I just sneakily piggybacked on the existing app. The time to prepare the wor
 
 Anyway, if you are a beginner with Angular, best to hop over to the tutorials mentioned above, but if you want to clone and run this modified one: 
 
+Note: If you want to see the CodeHub members, you will need to use your own API key ([meetup.com/meetup_api/key/](meetup.com/meetup_api/key/)) in app/scripts/services.js. I have reset mine, after I it in the code that I pushed up.
+
 ```
 git clone https://github.com/CodeHubOrg/AngularJS-2-seed-build-test-with-F1App.git
 cd f1feeder-part2
